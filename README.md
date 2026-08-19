@@ -44,11 +44,11 @@ Aera works comfortably between business and technical teams. Documentation is pa
 
 | Project | What it demonstrates |
 | --- | --- |
-| [RevOps Analytics Portfolio](https://github.com/jhamm2315/revops-analytics-portfolio) | End-to-end sales, order, revenue, and margin analytics for operational and executive reporting |
-| [Financial Market Intelligence](https://github.com/jhamm2315/financial-market-intelligence) | API-driven ingestion, Python, DuckDB, SQL, and multi-asset analysis |
-| [Supply Chain Risk Intelligence](https://github.com/jhamm2315/supply-chain-risk-intelligence) | Shipment risk, SLA exposure, disruption signals, and decision support |
-| [Customer Churn Command Center](https://github.com/jhamm2315/customer-churn-command-center) | Machine-learning workflows that identify and prioritize at-risk customers |
-| [Fraud Detection Command Center](https://github.com/jhamm2315/fraud-detection-command-center) | Suspicious-transaction detection, exposure ranking, and investigator-ready outputs |
+| [RevOps Analytics Portfolio](https://github.com/AeraAnalytics/revops-analytics-portfolio) | End-to-end sales, order, revenue, and margin analytics for operational and executive reporting |
+| [Financial Market Intelligence](https://github.com/AeraAnalytics/financial-market-intelligence) | API-driven ingestion, Python, DuckDB, SQL, and multi-asset analysis |
+| [Supply Chain Risk Intelligence](https://github.com/AeraAnalytics/supply-chain-risk-intelligence) | Shipment risk, SLA exposure, disruption signals, and decision support |
+| [Customer Churn Command Center](https://github.com/AeraAnalytics/customer-churn-command-center) | Machine-learning workflows that identify and prioritize at-risk customers |
+| [Fraud Detection Command Center](https://github.com/AeraAnalytics/fraud-detection-command-center) | Suspicious-transaction detection, exposure ranking, and investigator-ready outputs |
 
 Public projects use public or synthetic data. Client data stays client data.
 
@@ -70,5 +70,5 @@ The tool follows the problem. Not the other way around.
 
 <p align="center">
   <strong>Good data. Clear decisions. Fewer mysteries.</strong><br />
-  <a href="https://github.com/jhamm2315?tab=repositories">Browse the work</a>
+  <a href="https://github.com/AeraAnalytics?tab=repositories">Browse the work</a>
 </p>
